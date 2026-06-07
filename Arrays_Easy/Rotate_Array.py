@@ -7,3 +7,4 @@ class Solution:
         #     nums[:] = nums[-1:] + nums[:-1]
         #     k = k-1
         # return nums
+        
