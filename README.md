@@ -1,3 +1,3 @@
 # Leetcode-solutions
-My leetcode DSA solutions 
-daily updation ✅
+leetcode DSA solutions with topic name 
+daily updation ✅ 
