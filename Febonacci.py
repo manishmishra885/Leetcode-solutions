@@ -15,5 +15,5 @@ def febo (n):
         return n 
     
     return febo(n-1) + febo (n-2)
-for i in range (7):
+# for i in range (7):
     # print(febo(i), end = " ")
